@@ -9,8 +9,9 @@ O objetivo é criar uma aplicação **simples e funcional**, servindo como base 
 
 ## Tecnologias Utilizadas
 - **Node.js** (JavaScript no backend)  
-- **Módulo FS** para manipulação de arquivos JSON  
-- **Inquirer.js** (opcional) para prompts interativos no terminal  
+- **Módulo FS** para manipulação de arquivos JSON utilizando Promises
+- **Inquirer.js** para prompts interativos no terminal
+- **Chalk** para estilização e destaque de mensagens no terminal
 
 > Observação: Inicialmente tudo será feito com **prompt no terminal** e arquivos JSON como armazenamento de dados. Futuramente, será possível migrar para banco de dados e frontend visual.
 
